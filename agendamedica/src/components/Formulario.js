@@ -1,6 +1,6 @@
 import React from 'react';
 
-cont Formulario = () => {
+const Formulario = () => {
     return (
         <h1> desde el formulario</h1>
 
